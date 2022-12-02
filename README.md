@@ -1,20 +1,44 @@
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Crotza&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Crotza&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crotza&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="RandolphCarter.gif" width="850" align="center">
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Crotza&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- <h1 align="center"> 🚀 Hi, what's up? 🚀 </h1> -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h2 align="center">
+  🚀 Hi, what's up? 🚀
+  <br><br>
+  I’m João Pedro, a Full Stack Student from Federal Technological University of Paraná, Brazil
+</h2>
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+## My skills <img src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif?cid=ecf05e474573e1jo5fxw8i4t0jhi3h5spdqcakqfshgjbmn2&rid=giphy.gif&ct=s" width="40">
+```js
+const mySkill = {
+  pronouns: 'he' || 'him',
+  languages: [C, C++, C#, JavaScript, HTML, CSS, Python, Java],
+  tools: [cmd],
+  methodologies: ['Sit and code'],
+}
+```
 
----
-[![](https://visitcount.itsvg.in/api?id=Crotza&icon=2&color=11)](https://visitcount.itsvg.in)
+<p align="center">
+    <img src="https://img.shields.io/badge/-C-000?&logo=c&labelColor=1F2430&color=1F2430&logoColor=3eb8e8"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-C++-000?&logo=c++&labelColor=1F2430&color=1F2430&logoColor=fcda50"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-C#-000?&logo=c#&labelColor=1F2430&color=1F2430&logoColor=54ADE1"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript&labelColor=1F2430&color=1F2430&logoColor=F7DF1E"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-HTML-000?&logo=html&labelColor=1F2430&color=1F2430&logoColor=27AAE0"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-CSS-000?&logo=css&labelColor=1F2430&color=1F2430&logoColor=27AAE0"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-Python-000?&logo=python&labelColor=1F2430&color=1F2430&logoColor=1eafcc"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-Java-000?&logo=java&labelColor=1F2430&color=1F2430&logoColor=1eafcc"></img>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## My stats <img src="https://media1.giphy.com/media/QtOt8WyYCGQBiJJ4ZJ/giphy.gif?cid=ecf05e478akguwkdt48em6rw22ld04x2j97et8a3ltlxwqnk&rid=giphy.gif&ct=s" width="30">
+
+![LucioFex's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucioFex&show_icons=true&theme=ayu-mirage&border_radius=30)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucioFex&theme=ayu-mirage&border_radius=30&layout=compact&langs_count=6)
