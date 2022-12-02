@@ -1,44 +1,45 @@
 <p align="center">
-  <img src="RandolphCarter.gif" width="850" align="center">
+  <img src="https://www.pinclipart.com/picdir/big/163-1639462_work-pc-sticker-pc-gif-transparent-clipart.png" width="300" align="center">
 </p>
 
-<!-- <h1 align="center"> 🚀 Hi, what's up? 🚀 </h1> -->
-
 <h2 align="center">
-  🚀 Hi, what's up? 🚀
+  Hi, what's up? 💻
   <br><br>
-  I’m João Pedro, a Full Stack Student from Federal Technological University of Paraná, Brazil
+  I’m João Pedro, a Full Stack <i>Student</i> from Federal Technological University of Paraná, Brazil
 </h2>
 
 ## My skills <img src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif?cid=ecf05e474573e1jo5fxw8i4t0jhi3h5spdqcakqfshgjbmn2&rid=giphy.gif&ct=s" width="40">
 ```js
 const mySkill = {
   pronouns: 'he' || 'him',
-  languages: [C, C++, C#, JavaScript, HTML, CSS, Python, Java],
+  languages: [C, C++, C#, JavaScript, HTML, CSS, Python, Java, R],
   tools: [cmd],
   methodologies: ['Sit and code'],
 }
 ```
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-C-000?&logo=c&labelColor=1F2430&color=1F2430&logoColor=3eb8e8"></img>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img>
 &nbsp&nbsp
-    <img src="https://img.shields.io/badge/-C++-000?&logo=c++&labelColor=1F2430&color=1F2430&logoColor=fcda50"></img>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
 &nbsp&nbsp
-    <img src="https://img.shields.io/badge/-C#-000?&logo=c#&labelColor=1F2430&color=1F2430&logoColor=54ADE1"></img>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
 &nbsp&nbsp
-    <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript&labelColor=1F2430&color=1F2430&logoColor=F7DF1E"></img>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 &nbsp&nbsp
-    <img src="https://img.shields.io/badge/-HTML-000?&logo=html&labelColor=1F2430&color=1F2430&logoColor=27AAE0"></img>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 &nbsp&nbsp
-    <img src="https://img.shields.io/badge/-CSS-000?&logo=css&labelColor=1F2430&color=1F2430&logoColor=27AAE0"></img>
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></img>
 &nbsp&nbsp
-    <img src="https://img.shields.io/badge/-Python-000?&logo=python&labelColor=1F2430&color=1F2430&logoColor=1eafcc"></img>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
 &nbsp&nbsp
-    <img src="https://img.shields.io/badge/-Java-000?&logo=java&labelColor=1F2430&color=1F2430&logoColor=1eafcc"></img>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></img>
+    <!-- https://github.com/iuricode/readme-template/blob/main/badges/badges.md -->
 </p>
 
 ## My stats <img src="https://media1.giphy.com/media/QtOt8WyYCGQBiJJ4ZJ/giphy.gif?cid=ecf05e478akguwkdt48em6rw22ld04x2j97et8a3ltlxwqnk&rid=giphy.gif&ct=s" width="30">
 
-![LucioFex's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucioFex&show_icons=true&theme=ayu-mirage&border_radius=30)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucioFex&theme=ayu-mirage&border_radius=30&layout=compact&langs_count=6)
+![Crotza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crotza&show_icons=true&theme=aura&border_radius=30)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiruAugusto&layout=compact&theme=aura&border_radius=30)](https://github.com/RiruAugusto/github-readme-stats)
