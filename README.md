@@ -13,7 +13,7 @@
 const mySkill = {
   pronouns: 'he' || 'him',
   languages: [C, C++, C#, JavaScript, HTML, CSS, Python, Java, R],
-  tools: [cmd],
+  tools: ["cmd"],
   methodologies: ['Sit and code'],
 }
 ```
