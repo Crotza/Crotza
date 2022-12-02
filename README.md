@@ -42,4 +42,5 @@ const mySkill = {
 ## My stats <img src="https://media1.giphy.com/media/QtOt8WyYCGQBiJJ4ZJ/giphy.gif?cid=ecf05e478akguwkdt48em6rw22ld04x2j97et8a3ltlxwqnk&rid=giphy.gif&ct=s" width="30">
 
 ![Crotza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crotza&show_icons=true&theme=aura&border_radius=30)
+<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiruAugusto&layout=compact&theme=aura&border_radius=30)](https://github.com/RiruAugusto/github-readme-stats)
