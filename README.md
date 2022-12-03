@@ -43,4 +43,4 @@ const mySkill = {
 
 ![Crotza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crotza&show_icons=true&theme=aura&border_radius=30)
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiruAugusto&layout=compact&theme=aura&border_radius=30)](https://github.com/RiruAugusto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crotza&layout=compact&theme=aura&border_radius=30)](https://github.com/Crotza/github-readme-stats)
