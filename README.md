@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.pinclipart.com/picdir/big/163-1639462_work-pc-sticker-pc-gif-transparent-clipart.png" width="300" align="center">
+  <img src="https://www.pinclipart.com/picdir/big/163-1639462_work-pc-sticker-pc-gif-transparent-clipart.png" width="150" align="center">
 </p>
 
 <h2 align="center">
